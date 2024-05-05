@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B055CAA-A4D3-4CE6-BB74-1D330CADCBD5}|D:\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order|D:\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order\\admin\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7B055CAA-A4D3-4CE6-BB74-1D330CADCBD5}|D:\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order|solutionrelative:admin\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B055CAA-A4D3-4CE6-BB74-1D330CADCBD5}|D:\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order|d:\\online fertilizer equipment order\\online fertilizer equipment order\\online fertilizer equipment order\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7B055CAA-A4D3-4CE6-BB74-1D330CADCBD5}|D:\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order\\admin\\Default.aspx",
+              "RelativeDocumentMoniker": "admin\\Default.aspx",
+              "ToolTip": "D:\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order\\admin\\Default.aspx",
+              "RelativeToolTip": "admin\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-06T09:45:29.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "D:\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order\\Online Fertilizer Equipment Order\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-06T08:49:44.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
